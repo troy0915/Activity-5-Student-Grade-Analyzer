@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\bin\Debug\Activity 5Student Grade Analyzer.exe.config
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\bin\Debug\Activity 5Student Grade Analyzer.exe
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\bin\Debug\Activity 5Student Grade Analyzer.pdb
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\obj\Debug\Activity 5Student Grade Analyzer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\obj\Debug\Activity 5Student Grade Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\obj\Debug\Activity 5Student Grade Analyzer.exe
+C:\Users\HP\source\repos\Activity 5Student Grade Analyzer\obj\Debug\Activity 5Student Grade Analyzer.pdb
